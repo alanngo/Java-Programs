@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dceb918f-9ea9-4d4c-98a2-eed26c82201f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VRr14UfEKEJ84M4iYLL7vVHtBN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Sandbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sandbox" />
+      <module name="Codility" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sandbox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dceb918f-9ea9-4d4c-98a2-eed26c82201f" name="Default Changelist" comment="" />
+      <created>1577226529783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577226529783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577939270832">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577939270832" />
+    <state x="740" y="272" key="FileChooserDialogImpl" timestamp="1577940148193">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="272" key="FileChooserDialogImpl/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577940148193" />
+    <state width="1877" height="252" key="GridCell.Tab.0.bottom" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.0.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.0.center" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.0.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.0.left" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.0.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.0.right" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.0.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.1.bottom" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.bottom/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.1.center" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.center/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.1.left" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.left/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state width="1877" height="252" key="GridCell.Tab.1.right" timestamp="1578015168064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="252" key="GridCell.Tab.1.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578015168064" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1577940152681">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577940152681" />
+    <state x="-1547" y="145" width="1419" height="720" key="dock-window-1" timestamp="1577412719070">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1547" y="145" width="1419" height="720" key="dock-window-1/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577412719070" />
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1577320508384">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577320508384" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="s.name.equals(&quot;minh&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/Student.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OddOccurences.java</url>
+          <line>41</line>
+          <properties class="OddOccurences" method="binarySearch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OddOccurences.java</url>
+          <line>84</line>
+          <properties class="OddOccurences" method="solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Student.java</url>
+          <line>3</line>
+          <properties field="name" class="Student" />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
